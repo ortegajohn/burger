@@ -6,7 +6,7 @@ When the add burger button is pressed the name the users entered is stored to th
 Handlebars receives the info from the database and displays burger names under two different headings depending on if a "devoured" true/false flag from the database.
 
 ### Deployed Example
-See deployed link: https://dashboard.heroku.com/apps/eat-da-burger1234/settings
+See deployed link: https://eat-da-burger1234.herokuapp.com/
 
 
 
